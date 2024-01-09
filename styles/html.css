@@ -1,5 +1,6 @@
 
-body{  max-width: 1600px;
+body{  margin-left: 100px;
+    max-width: 1600px;
     max-height: 7335px;
     background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
    
@@ -352,10 +353,251 @@ border-radius: 16px;
 background: url("Rectangle\ 3.png"), lightgray 0px -35.755px / 100% 142.115% no-repeat;s
 
 }
-.image7 {
+.image7 { margin-left: 450px;
+    margin-top: -750px;
+    margin-bottom: 300px;
     width: 424px;
 height: 450px;
 flex-shrink: 0;
 border-radius: 16px;
 background: url("Rectangle\ 4.png"), lightgray 50% / cover no-repeat;
+}
+.image8 { margin-left: 900px;
+    margin-top: -750px;
+    margin-bottom: 300px;
+    width: 424px;
+height: 450px;
+flex-shrink: 0;
+border-radius: 16px;
+background: url("Rectangle\ 5.png"), lightgray 50% / cover no-repeat;
+}
+.image9 { margin-top: -270px;
+    margin-bottom: 300px;
+    width: 424px;
+height: 450px;
+flex-shrink: 0;
+border-radius: 16px;
+background: url("Rectangle\ 6.png"), lightgray -195.366px 0px / 156.077% 100% no-repeat;
+}
+.image10 { margin-left: 450px;
+    margin-top: -750px;
+    margin-bottom: 300px;
+    
+    width: 424px;
+height: 450px;
+flex-shrink: 0;
+border-radius: 16px;
+background: url("Rectangle\ 7.png"), lightgray 50% / cover no-repeat;
+}
+.image11 {  margin-left: 900px;
+    margin-top: -750px;
+    margin-bottom: 300px;
+    border-radius: 16px;
+    background: url("Rectangle\ 8.png"), lightgray 50% / cover no-repeat;
+    width: 424px;
+height: 450px;
+flex-shrink: 0;
+}
+.image12 { margin-right: 250px;
+    width: 150px;
+height: 150px;
+flex-shrink: 0;
+}
+.Newsletter { margin-left: 415px;
+    width: 512px;
+    height: 60px;
+    color: #070211;
+text-align: center;
+font-family: Merriweather;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.dolor3 { margin-top: 20px;
+    margin-left: 240px;
+    margin-bottom: 100px;
+    width: 896px;
+    height: 64px;
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.subscribe-form { margin-bottom: 300px;
+    margin-left: 560px;
+    width: 648px;
+height: 72px;
+flex-shrink: 0;
+border-radius: 50px;
+background: #FFF;
+}
+.email-input {
+    width: 141px;
+    height: 22px;
+    color: rgba(7, 2, 17, 0.30);
+text-align: center;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.subscribe-button {
+    width: 210px;
+height: 72px;
+flex-shrink: 0;
+border-radius: 0px 50px 50px 0px;
+background: #F00;
+}
+.Subscribe {
+    width: 98px;
+    height: 24px;
+    color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: capitalize;
+}
+footer { margin-left: -100px;
+    width: 1600px;
+height: 609px;
+flex-shrink: 0;
+background: #070211;
+}
+.street { margin-right: 1085px;
+    margin-top: 120px;
+    margin-bottom: 409px;
+    margin-left: 140px;
+    width: 375px;
+    height: 80px;
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+}
+.call { margin-right: 502px;
+    margin-left: 1074px;
+    margin-top: -500px;
+    margin-bottom: 457px;
+    width: 24px;
+height: 24px;
+flex-shrink: 0;
+}
+.Website { margin-left: 1074px;
+margin-right: 502px;
+margin-top: -550px;
+margin-bottom: 417px;
+    width: 24px;
+height: 24px;
+flex-shrink: 0;
+}
+.phone { margin-right: 291;
+    margin-left: 1114px;
+    margin-top: -515px;
+    margin-bottom: 449px;
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+width: 195px;
+height: 40px;
+}
+.www { margin-right: 275px;
+    margin-left: 1114px;
+    margin-top: -430px;
+    margin-bottom: 409px;
+width: 211px;
+height: 40px;
+color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: 40px; /* 166.667% */
+}
+.line1 { margin-right: 140px;
+    margin-left: 140px;
+    margin-top: -350px;
+    margin-bottom: 359px;
+    width: 1320px;
+height: 1px;
+background: rgba(255, 255, 255, 0.15);
+}
+.Facebook { margin-right: 896px;
+    margin-top: -298px;
+    margin-left: 640px;
+    margin-bottom: 247px;
+    width: 64px;
+height: 64px;
+flex-shrink: 0;
+}
+.Instagram { margin-right: 896px;
+    margin-left: 728px;
+    margin-top: -400px;
+    margin-bottom: 265px;
+    width: 64px;
+height: 64px;
+flex-shrink: 0;
+}
+.Twitter { margin-right: 720px;
+    margin-left: 816px;
+    margin-top: -400px;
+    margin-bottom: 285px;
+    width: 64px;
+height: 64px;
+flex-shrink: 0;
+}
+.Linkedin { margin-right: 632px;
+    margin-left: 904px;
+    margin-top: -400px;
+    margin-bottom: 305px;
+    width: 64px;
+height: 64px;
+flex-shrink: 0;
+}
+.line2 { margin-right: 140px;
+    margin-left: 140px;
+    margin-top: -250px;
+    margin-bottom: 199px;
+    width: 1320px;
+height: 1px;
+background: rgba(255, 255, 255, 0.15);
+}
+.all-rights { margin-right: 1165px;
+    margin-left: 140px;
+    margin-top: -100px;
+    margin-bottom: 120px;
+    width: 295px;
+    height: 29px;
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.Unsubscribe { margin-right: 140px;
+    margin-left: 1315px;
+    margin-top: -145px;
+    margin-bottom: 120px;
+    width: 145px;
+    height: 29px;
+    color: #FFF;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
 }
